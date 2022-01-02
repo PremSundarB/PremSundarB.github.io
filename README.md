@@ -2,6 +2,7 @@
   <body>
     <p>hey guys this is me page </p>
   </body>
+  <head>
   </head>
 
 ## Welcome to GitHub Pages

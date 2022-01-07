@@ -1,7 +1,7 @@
 <html>
   <body>
     <p>hey guys this is my Resume wherein I will be adding my projects and stuff . </p>
-    <img src=
+    <img src="dp2.JPG" height =300 width =400 ></img>
   </body>
   
   </html>

@@ -1,6 +1,7 @@
 <html>
   <body>
-    <p>hey guys this is me page </p>
+    <p>hey guys this is my Resume wherein I will be adding my projects and stuff . </p>
+    <img src=
   </body>
   
   </html>
